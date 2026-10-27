@@ -1,0 +1,8 @@
+/build/
+/evidence/
+/scope.md
+/implementation-report.md
+/journal.md
+/index.md
+__pycache__/
+.DS_Store
